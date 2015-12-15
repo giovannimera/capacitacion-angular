@@ -1,3 +1,4 @@
 Float cilindraje
 Float peso
+String  tipo
 String seria
