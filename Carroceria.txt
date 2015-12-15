@@ -1,0 +1,2 @@
+String marca
+String color
