@@ -1,0 +1,3 @@
+Float cilindraje
+Float peso
+String seria
